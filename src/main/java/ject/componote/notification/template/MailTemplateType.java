@@ -1,4 +1,4 @@
-package ject.componote.template;
+package ject.componote.notification.template;
 
 import lombok.Getter;
 

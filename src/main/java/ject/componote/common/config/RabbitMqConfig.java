@@ -1,4 +1,4 @@
-package ject.componote.config;
+package ject.componote.common.config;
 
 import org.springframework.amqp.rabbit.config.SimpleRabbitListenerContainerFactory;
 import org.springframework.amqp.rabbit.connection.ConnectionFactory;
